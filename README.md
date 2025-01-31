@@ -1,4 +1,4 @@
-# Vision Transformer (ViT) with LoRA-based Adaptation
+# Vision Transformer (ViT) with LoRA-based Adaptation in Scratch
 
 ## Overview
 This project fine-tunes a Vision Transformer (ViT-B/16) model with **Low-Rank Adaptation (LoRA)** on the **Tiny-ImageNet dataset**. LoRA enables parameter-efficient fine-tuning by introducing trainable low-rank decompositions into pre-trained models while keeping most parameters frozen.
